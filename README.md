@@ -1,9 +1,9 @@
 # spbl
-little projects with spring-boot and herbinate
+Little projects with Spring-boot and Hibernate
 
 ## 介绍
 
-* 使用spring-boot和herbinate练习一些小的项目，熟悉框架；
+* 使用Spring-boot和Hibernate练习一些小的项目，熟悉框架；
 * 项目会从易到难，官网的指导手册各个项目分的很开，我会做一些整合；
 
 ## 参考来源
