@@ -3,7 +3,7 @@ package hello;
 /**
  * Add class description here.
  *
- * @author Li Guojie
+ * @author Machael
  */
 public class Greeting {
     private final long id;

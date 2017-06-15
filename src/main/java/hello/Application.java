@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Add class description here.
  *
- * @author Li Guojie
+ * @author Machael
  */
 @SpringBootApplication
 public class Application {
